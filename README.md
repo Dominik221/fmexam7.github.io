@@ -17,8 +17,8 @@ This is a solution to the [Single price grid component challenge hub on Frontend
 
 ### Links
 
-- [Solution URL:](https://www.frontendmentor.io/solutions/four-card-feature-section-with-scss-JL4vS8Yer)
-- [Live Site URL:](https://dominik221.github.io/fmexam6.github.io/)
+- [Solution URL:](https://www.frontendmentor.io/solutions/single-price-grid-component--ZOIroD8t)
+- [Live Site URL:](https://dominik221.github.io/fmexam7.github.io/)
 
 ## My process
 
