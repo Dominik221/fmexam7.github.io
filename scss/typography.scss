@@ -1,0 +1,95 @@
+//
+// TYPOGRAPHY
+// ----------------------------------------------
+
+h1,
+h2,
+h3,
+p {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: $color-h1;
+    font: {
+        size: 2rem;
+        weight: 700;
+    }
+    margin-bottom: 1.5625rem;
+}
+
+h2 {
+    color: $color-h2;
+    font: {
+        size: 1.5rem;
+        weight: 700;
+    }
+    margin-bottom: .78125rem;
+}
+
+h3 {
+    color: $color-h3;
+    font: {
+        size: 1.25rem;
+        weight: 700;
+    }
+    margin-bottom: 1.125rem;
+}
+
+p {
+    color: $color-p;
+    font: {
+        size: 1.0625rem;
+        weight: 700;
+    }
+    margin-bottom: 3.125rem;
+}
+
+button {
+    width: 100%;
+    background-color: $color-h2;
+    color: #fff;
+    padding: 15px 0px;
+    text-decoration: none;
+    border-radius: .5rem;
+    -webkit-border-radius: .5rem;
+    -moz-border-radius: .5rem;
+    -ms-border-radius: .5rem;
+    -o-border-radius: .5rem;
+    border: none;
+}
+
+ul, 
+li {
+    padding: 0;
+    list-style: none;
+    color: $color-h3;
+    opacity: 0.9;
+    font-weight: 400;
+}
+
+.second-col span {
+    opacity: 0.8;
+    font: {
+        size: .875rem;
+        weight: 400;
+    }
+    color: $color-h3;   
+    vertical-align: middle;
+} 
+
+.second-col p:nth-child(2) {
+    font-size: 2.1875rem;
+    color: $color-h3;  
+    margin-bottom: .5rem; 
+}
+
+.second-col p:nth-child(3) {
+    opacity: 0.8;
+    font-size: .9375rem;
+    color: $color-h3;   
+}
+
+
+

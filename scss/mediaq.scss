@@ -1,0 +1,25 @@
+//
+// MEDIA QUERIES
+// ----------------------------------------------
+
+@media screen and (max-width: 768px) {
+    .container {
+        width: 100%;
+        display:flex;
+        margin: 20px;
+    }
+    .second-col {
+        border-radius: 0px;
+        -webkit-border-radius: 0px;
+        -moz-border-radius: 0px;
+        -ms-border-radius: 0px;
+        -o-border-radius: 0px;
+    }
+    .third-col {
+        border-radius: 0 0px 12px 12px;
+        -webkit-border-radius: 0 0px 12px 12px;
+        -moz-border-radius: 0 0px 12px 12px;
+        -ms-border-radius: 0 0px 12px 12px;
+        -o-border-radius: 0 0px 12px 12px;
+    }
+}
